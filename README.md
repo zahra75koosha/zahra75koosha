@@ -25,3 +25,17 @@ Machine Learning, and Deep Learning.
 ![Zabbix](https://img.shields.io/badge/Zabbix-red?style=flat-square&logo=zabbix&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white)
+
+
+
+### 🎓 Education
+Computer Engineering
+
+
+## 🔬 Research Interests
+
+- Network Traffic Analysis
+- Machine Learning for Networking
+- Deep Learning
+- Anomaly Detection
+- Data-driven Network Monitoring and Management
