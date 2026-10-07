@@ -24,7 +24,7 @@ Machine Learning, and Deep Learning.
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-red?style=flat-square&logo=zabbix&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white)
-![EVE-NG](https://img.shields.io/badge/EVE--NG-1679A7?style=flat-square&logo=eve-ng&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-0078D4?style=flat-square&logoColor=white)
 
 
 
