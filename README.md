@@ -20,6 +20,7 @@ Machine Learning, and Deep Learning.
 
 **Networking & Monitoring:**
 ![Cisco](https://img.shields.io/badge/Cisco-blue?style=flat-square&logo=cisco&logoColor=white)
+![Huawei OLTs](https://img.shields.io/badge/Cisco-blue?style=flat-square&logo=cisco&logoColor=white)
 ![Huawei](https://img.shields.io/badge/Huawei-red?style=flat-square&logo=huawei&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=flat-square&logo=wireshark&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-red?style=flat-square&logo=zabbix&logoColor=white)
