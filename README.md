@@ -8,18 +8,6 @@ Machine Learning, and Deep Learning.
 - 🤖 Machine Learning & Deep Learning
 
 ### 🛠️ Skills & Tools
-Python · TensorFlow · Keras · Cisco · Huawei · Wireshark · Zabbix · Linux · Git
-
-### 🎓 Education
-Software Engineering
-
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-zahra75koosha-black?logo=github)](https://github.com/zahra75koosha)
-
-
-
-### 🛠️ Skills & Tools
 
 **Networking & Monitoring:**
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -33,3 +21,26 @@ Software Engineering
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎓 Education
+Software Engineering
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-zahra75koosha-black?logo=github)](https://github.com/zahra75koosha)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahra75koosha&show_icons=true&theme=radical" alt="Zahra's GitHub Stats" />
+</p>
+
+
+
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/zahra75koosha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+</p>
+
+
