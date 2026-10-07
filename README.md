@@ -16,8 +16,7 @@ Machine Learning, and Deep Learning.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-red?style=flat-square&logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-grey?style=flat-square&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=plotly&logoColor=white)
+
 
 **Networking & Monitoring:**
 ![Cisco](https://img.shields.io/badge/Cisco-blue?style=flat-square&logo=cisco&logoColor=white)
