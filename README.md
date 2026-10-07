@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Zahra Koosha
 
-<!--
-**zahra75koosha/zahra75koosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Network Engineer interested in Networking, Network Traffic Analysis,
+Machine Learning, and Deep Learning.
 
-Here are some ideas to get you started:
+### 🔎 Currently focusing on
+- 🌐 Networking & Network Traffic Analysis
+- 🤖 Machine Learning & Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+Python · TensorFlow · Keras · Cisco · Huawei · Wireshark · Zabbix · Linux · Git
+
+### 🎓 Education
+Software Engineering
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-zahra75koosha-black?logo=github)](https://github.com/zahra75koosha)
