@@ -29,12 +29,6 @@ Machine Learning, and Deep Learning.
 ![EVE-NG](https://img.shields.io/badge/EVE--NG-0078D4?style=flat-square&logoColor=white)
 
 
-
-
-### 🎓 Education
-Computer Engineering
-
-
 ## 🔬 Research Interests
 
 - Network Traffic Analysis
