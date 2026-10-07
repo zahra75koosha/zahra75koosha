@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Zahra Koosha
 
-🌐 Network Engineer interested in Networking, Network Traffic Analysis,
-Machine Learning, and Deep Learning.
 
-### 🔎 Currently focusing on
-- 🌐 Networking & Network Traffic Analysis
-- 🤖 Machine Learning & Deep Learning
+🌐 **Network Engineer** interested in Networking, Network Traffic Analysis,
+Machine Learning, and Deep Learning.  
+Currently focusing on:
+
+- 🌐 **Networking & Network Traffic Analysis**
+- 🤖 **Machine Learning & Deep Learning**
+
 
 ### 🛠️ Skills & Tools
 
