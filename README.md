@@ -28,7 +28,6 @@ Machine Learning, and Deep Learning.
 
 
 
-
 ### 🎓 Education
 Computer Engineering
 
@@ -39,14 +38,9 @@ Computer Engineering
 - Machine Learning for Networking
 - Deep Learning
 - Anomaly Detection
-- Data-driven Network Monitoring and Management
-
-
-
-
-
+- Network Monitoring and Management
 
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahra-koosha/)
