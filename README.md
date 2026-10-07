@@ -5,14 +5,26 @@
 Machine Learning, and Deep Learning.  
 
 
-### 🛠️ Skills & Tools
+### 💻 Skills & Tools:
+
+**Artificial Intelligence & Data Science:**
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1.5-grey?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.25-blue?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-1.2-orange?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2.x-red?style=flat-square&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7-blue?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13-grey?style=flat-square&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-5.16-blue?style=flat-square&logo=plotly&logoColor=white)
 
 **Networking & Monitoring:**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=flat-square&logo=cisco&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-Networking-red?style=flat-square&logo=huawei&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Traffic_Analysis-blue?style=flat-square&logo=wireshark&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red?style=flat-square&logo=zabbix&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=flat-square&logo=git&logoColor=white)
 
 **AI & Programming:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
