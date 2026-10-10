@@ -28,7 +28,6 @@ Machine Learning, and Deep Learning.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Mikrotk](https://img.shields.io/badge/Mikrotik-0078D4?style=flat-square&logoColor=white)
 ![ESXI](https://img.shields.io/badge/ESXI-F4D03F?style=flat-square&labelColor=4B4B4B&logoColor=white)
-![ESXI](https://img.shields.io/badge/ESXI-E6C229?style=flat-square&labelColor=B0B0B0&logoColor=white)
 
 ## 🔬 Research Interests
 
