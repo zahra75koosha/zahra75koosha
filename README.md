@@ -1,7 +1,7 @@
 # 👋 Hi There, I'm Zahra Koosha
 
 
-🌐 **AI & Machine Learning Researcher** focused on Deep Learning, Anomaly Detection, and ML applications in Cybersecurity & Network Traffic Analysis.
+🌐 **AI & Machine Learning Researcher** focused on Deep Learning, Anomaly Detection, and ML applications in Network Traffic Analysis.
 
 
 
