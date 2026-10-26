@@ -1,8 +1,7 @@
 # 👋 Hi There, I'm Zahra Koosha
 
 
-🌐 **Network Engineer** interested in Network Infrastructure, Network Traffic Analysis,
-Machine Learning, and Deep Learning.  
+🌐 **AI & Machine Learning Researcher** focused on Deep Learning, Anomaly Detection, and ML applications in Cybersecurity & Network Traffic Analysis.
 
 
 
@@ -30,12 +29,12 @@ Machine Learning, and Deep Learning.
 ![ESXI](https://img.shields.io/badge/ESXI-F4D03F?style=flat-square&labelColor=4B4B4B&logoColor=white)
 
 ## 🔬 Research Interests
+- Deep Learning & Representation Learning
+- Machine Learning for Cybersecurity & Malware Detection
+- Network Traffic Analysis & Classification
 
-- Network Traffic Analysis
-- Machine Learning for Networking
-- Deep Learning
-- Anomaly Detection
-- Network Monitoring and Management
+
+
 
 
 ### 🔗 Connect with me
